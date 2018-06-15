@@ -1,3 +1,5 @@
 # ChinoBot Support Bot
->1. ÀÌ º¿Àº Discord Bot Maker ·Î ¸¸µé¾îÁø º¿ÀÔ´Ï´Ù!
->2. DBM Mods °¡ ÇÊ¿äÇÕ´Ï´Ù!
+>1. ì´ ë´‡ì€ Discord Bot Maker ë¡œ ë§Œë“¤ì–´ì§„ ë´‡ìž…ë‹ˆë‹¤!
+>2. DBM Mods ê°€ í•„ìš”í•©ë‹ˆë‹¤!
+>3. ChinoBot Support Server
+>https://discord.gg/T8u492S
